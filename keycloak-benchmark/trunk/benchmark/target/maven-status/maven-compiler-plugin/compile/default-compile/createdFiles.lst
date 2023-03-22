@@ -1,0 +1,7 @@
+org\keycloak\benchmark\gatling\log\Stats.class
+org\keycloak\benchmark\Config.class
+org\keycloak\benchmark\gatling\log\LogProcessor.class
+org\keycloak\benchmark\gatling\log\LogLine.class
+org\keycloak\benchmark\gatling\log\LogReader.class
+org\keycloak\benchmark\gatling\log\LogLine$Type.class
+org\keycloak\benchmark\gatling\log\LogLine$1.class
